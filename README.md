@@ -1,2 +1,2 @@
 # Learning-Git
-CC
+Creating a new branch is quick and simple.
